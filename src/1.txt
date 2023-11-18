@@ -2,7 +2,11 @@ tranthach
 hello world
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 beta
 =======
 alpha
 >>>>>>> 711eb9a (alpha)
+=======
+alpha
+>>>>>>> 711eb9a4e55aef16105dd114ca8446d2cd331ebc
