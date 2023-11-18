@@ -1,4 +1,8 @@
 tranthach
 hello world
 
+<<<<<<< HEAD
 beta
+=======
+alpha
+>>>>>>> 711eb9a (alpha)
