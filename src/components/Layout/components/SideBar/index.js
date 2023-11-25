@@ -5,7 +5,7 @@ function SideBar() {
   return (
     <div className={clsx(styles.sidebar_container)}>
       <div className={clsx(styles.sidebar_wrapper)}>
-
+       SideBar
       </div>
     </div>
   );
